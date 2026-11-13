@@ -101,5 +101,4 @@ In the footprinting activity, I used Kali Linux tools to collect information abo
 The exercises showed me that information gathering is an important part of cybersecurity. I learned that reconnaissance and scanning must always be performed within an authorized scope, and these activities were completed as part of the assigned educational cybersecurity lab.
 
 ## 8. Evidences Collected
-*(Attach screenshots of Zenmap Topology, GHDB Tables, and Maltego Graph here).*
-```eof
+Images were added to library.
